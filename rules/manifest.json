@@ -1,0 +1,43 @@
+{
+  "schema": 1,
+  "priority": [
+    "MetaCubeX:anthropic",
+    "MetaCubeX:hcaptcha",
+    "MetaCubeX:cloudflare",
+    "ProxyRules:missing-only",
+    "manual:withpersona.com"
+  ],
+  "sources": {
+    "anthropic": {
+      "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/classical/anthropic.list",
+      "sha256": "b1790d825efa0d22258c89c5d3cd3b39cb98d1d13c9dae05d56fd434ea0856d8",
+      "entries": 9
+    },
+    "hcaptcha": {
+      "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/classical/hcaptcha.list",
+      "sha256": "80279b27096bf9b5378618e9e2e492b16ba5ebb0886f7dbf02bb2fa4c4384964",
+      "entries": 3
+    },
+    "cloudflare": {
+      "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/classical/cloudflare.list",
+      "sha256": "b70407e714c366d93bfce4054d4cd67eca40771d3d027534dcfcdae562a97d2e",
+      "entries": 76
+    },
+    "proxyrules": {
+      "url": "https://raw.githubusercontent.com/flyingparanoia/ProxyRules/main/OpenAI.yaml",
+      "sha256": "53cbc0c47ab366ef99e36b2b3f2f236ab535c4963ba6c245c4eb0e2dc893dfbd",
+      "entries": 56
+    }
+  },
+  "meta_unique": 88,
+  "proxyrules_missing": 49,
+  "union_count": 138,
+  "output_sha256": {
+    "anthropic.list": "62b11a785fb93137fe0b0a8ce96cc13331c9b474b91198a5989aeaaf4fd46a2a",
+    "hcaptcha.list": "7cfd90aef60306d75f57f6ab22064a8fbb9949f26ab08f5203355313ec601f27",
+    "cloudflare.list": "5da420b390aad5bd04a87022f077a5735d39b5b7610d77e48e8d1a48da27ca63",
+    "proxyrules-extra.list": "b554a9f695f6244bffb5cb350f96fa2c89281af55b8309fef922d73bba5567d7",
+    "union.list": "f02ecbf7fbbb440f0f4963d9a62512a14962e4ff701580da236e310f6f3af56a"
+  },
+  "built_at_utc": "2026-10-06T14:26:09.346592+00:00"
+}
