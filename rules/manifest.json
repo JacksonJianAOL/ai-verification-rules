@@ -25,19 +25,19 @@
     },
     "proxyrules": {
       "url": "https://raw.githubusercontent.com/flyingparanoia/ProxyRules/main/OpenAI.yaml",
-      "sha256": "53cbc0c47ab366ef99e36b2b3f2f236ab535c4963ba6c245c4eb0e2dc893dfbd",
-      "entries": 56
+      "sha256": "a0931d22c5727ecb4bd4a280af7d4ce15087167778fb59ac90fc8b7f66ccfc7b",
+      "entries": 64
     }
   },
   "meta_unique": 88,
-  "proxyrules_missing": 49,
-  "union_count": 138,
+  "proxyrules_missing": 52,
+  "union_count": 141,
   "output_sha256": {
     "anthropic.list": "62b11a785fb93137fe0b0a8ce96cc13331c9b474b91198a5989aeaaf4fd46a2a",
     "hcaptcha.list": "7cfd90aef60306d75f57f6ab22064a8fbb9949f26ab08f5203355313ec601f27",
     "cloudflare.list": "5da420b390aad5bd04a87022f077a5735d39b5b7610d77e48e8d1a48da27ca63",
-    "proxyrules-extra.list": "b554a9f695f6244bffb5cb350f96fa2c89281af55b8309fef922d73bba5567d7",
-    "union.list": "f02ecbf7fbbb440f0f4963d9a62512a14962e4ff701580da236e310f6f3af56a"
+    "proxyrules-extra.list": "40733e0140cf95a10aa69c4e00742d18402b28728360508bec3dbde2eda7d696",
+    "union.list": "da2877953fa6a4b4d0c02a67a7d62514dfe332c39531a8c4d7f6052ad0fc2a99"
   },
-  "built_at_utc": "2026-10-06T14:26:09.346592+00:00"
+  "built_at_utc": "2026-10-13T22:44:07.596999+00:00"
 }

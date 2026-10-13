@@ -37,6 +37,9 @@ DOMAIN-SUFFIX,observeit.net
 DOMAIN-SUFFIX,api.stripe.com
 DOMAIN-SUFFIX,prodregistryv2.org
 DOMAIN-SUFFIX,featureassets.org
+DOMAIN-SUFFIX,anthropic.ai
+DOMAIN-SUFFIX,modelcontextprotocol.io
+DOMAIN,cdn.usefathom.com
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,perplexity.ai
