@@ -10,8 +10,8 @@
   "sources": {
     "anthropic": {
       "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/classical/anthropic.list",
-      "sha256": "b1790d825efa0d22258c89c5d3cd3b39cb98d1d13c9dae05d56fd434ea0856d8",
-      "entries": 9
+      "sha256": "9abc4c8ef9ade13f24d72f9adc8f6164db3278e44cb05e01ec9ae573d55733db",
+      "entries": 19
     },
     "hcaptcha": {
       "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/classical/hcaptcha.list",
@@ -29,15 +29,15 @@
       "entries": 64
     }
   },
-  "meta_unique": 88,
+  "meta_unique": 98,
   "proxyrules_missing": 52,
-  "union_count": 141,
+  "union_count": 151,
   "output_sha256": {
-    "anthropic.list": "62b11a785fb93137fe0b0a8ce96cc13331c9b474b91198a5989aeaaf4fd46a2a",
+    "anthropic.list": "f131a082f9e2c97af7671d1d406596aaff78d5f1d597dd9430292f615043cb85",
     "hcaptcha.list": "7cfd90aef60306d75f57f6ab22064a8fbb9949f26ab08f5203355313ec601f27",
     "cloudflare.list": "5da420b390aad5bd04a87022f077a5735d39b5b7610d77e48e8d1a48da27ca63",
     "proxyrules-extra.list": "40733e0140cf95a10aa69c4e00742d18402b28728360508bec3dbde2eda7d696",
-    "union.list": "da2877953fa6a4b4d0c02a67a7d62514dfe332c39531a8c4d7f6052ad0fc2a99"
+    "union.list": "c946af81230829ba09ff5cc357f7f21f132ac8c8c45479245064b984b48fd639"
   },
-  "built_at_utc": "2026-10-13T22:44:07.596999+00:00"
+  "built_at_utc": "2026-10-21T04:44:12.545639+00:00"
 }
