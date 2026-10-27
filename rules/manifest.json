@@ -20,7 +20,7 @@
     },
     "cloudflare": {
       "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/classical/cloudflare.list",
-      "sha256": "b70407e714c366d93bfce4054d4cd67eca40771d3d027534dcfcdae562a97d2e",
+      "sha256": "4bd32e00ddb8dce6b0afa83856c3fc2ae1a5f624df0e4b7b64e5c6e3f9833d7f",
       "entries": 76
     },
     "proxyrules": {
@@ -35,9 +35,9 @@
   "output_sha256": {
     "anthropic.list": "f131a082f9e2c97af7671d1d406596aaff78d5f1d597dd9430292f615043cb85",
     "hcaptcha.list": "7cfd90aef60306d75f57f6ab22064a8fbb9949f26ab08f5203355313ec601f27",
-    "cloudflare.list": "5da420b390aad5bd04a87022f077a5735d39b5b7610d77e48e8d1a48da27ca63",
+    "cloudflare.list": "172a8c58c0f818e6c65b545c7d000cea062ee28aee8f889d21a8e0e350004c4a",
     "proxyrules-extra.list": "40733e0140cf95a10aa69c4e00742d18402b28728360508bec3dbde2eda7d696",
-    "union.list": "c946af81230829ba09ff5cc357f7f21f132ac8c8c45479245064b984b48fd639"
+    "union.list": "c9229c0ca1d5f36eb627e4d0e1ed733a88a53515708b824451415a36f9c92642"
   },
-  "built_at_utc": "2026-10-21T04:44:12.545639+00:00"
+  "built_at_utc": "2026-10-27T05:02:18.526441+00:00"
 }
